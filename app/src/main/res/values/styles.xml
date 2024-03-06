@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BotaoVermelho">
+        <item name="android:background">#FF0000</item>
+    </style>
+
+    <style name="BotaoVerde">
+        <item name="android:background">#00FF00</item>
+    </style>
+
+    <style name="BotaoAzul">
+        <item name="android:background">#0000FF</item>
+    </style>
+
+</resources>
